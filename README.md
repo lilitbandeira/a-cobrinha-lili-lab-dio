@@ -1,4 +1,4 @@
-#  :snake: Este é meu exercício de recriar o jogo da cobrinha com HTML, CSS e JS ​
+#  :snake: Este é meu exercício de recriar o jogo da cobrinha com HTML, CSS e JS :video_game:
 
 
 

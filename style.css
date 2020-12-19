@@ -45,6 +45,7 @@ body {
 .btn:hover {
   background-color: #C39BD3;
   color: #4A235A;
+  text-shadow: 1px 1px white;
 }
 
 canvas {
