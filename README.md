@@ -8,7 +8,4 @@
 
   
 
-  ```
-  [![lilitbandeira](https://github-readme-stats.vercel.app/api/top-langs/?username=lilitbandeira&hide=html&layout=compact&theme=cobalt)](https://github.com/lilitbandeira/)
-  ```
-
+![GitHub repo size](https://img.shields.io/github/repo-size/lilitbandeira/README-template?style=for-the-badge)![GitHub language count](https://img.shields.io/github/languages/count/lilitbandeira/README-template?style=for-the-badge)
